@@ -10,4 +10,4 @@ print(raiz)
 # pow potência
 # fatorial , fatora um número
 #dndfbdd
-#dd
+#ddxxx

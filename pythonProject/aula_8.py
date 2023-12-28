@@ -9,4 +9,5 @@ print(raiz)
 # trunc número inteiros
 # pow potência
 # fatorial , fatora um número
-#dndfb
+#dndfbdd
+#dd

@@ -31,3 +31,18 @@ print(frase.upper())
 
 #função lower, transforma minuscúlo
 print(frase.lower())
+
+# função  capitalize(), Deixa somente a primeira letra em maiúsculo
+print(frase.capitalize())
+
+# função  title(), Deixa o primeiro caractere de cada palavra em maiúsculo
+print(frase.title())
+
+# função strip(), remove os espacos do ínicio e final da frase, mais não entre as palavras
+frase1 = '  engenharia de aquicultura  '
+print(frase1.strip())
+
+# rstrip(), remove os espaços somente a direita
+print(frase1.rstrip())
+# lstrip(), remove os espaços somente a esquerda
+print(frase1.lstrip())

@@ -46,3 +46,8 @@ print(frase1.strip())
 print(frase1.rstrip())
 # lstrip(), remove os espaços somente a esquerda
 print(frase1.lstrip())
+# Função split( ) divide a cadeia de caracteres nos espaços e gera uma lista com as strig
+# Função join junta a lista em um cadeia de caracteres, especifique as o separador das strig com estre ' '. no ínico pode ser utilizado para incluir qualquer separador
+frase2 = frase.split()
+print(frase2)
+print('_'.join(frase2))
